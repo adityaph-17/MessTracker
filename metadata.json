@@ -1,0 +1,6 @@
+{
+  "name": "Mess Meal Tracker & Token System",
+  "description": "Student hostel dining and mess token management system with automated monthly quotas, guest mode, overdraw prevention, and anti-overlapping protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
